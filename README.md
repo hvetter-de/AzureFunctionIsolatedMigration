@@ -1,2 +1,2 @@
 # AzureFunctionIsolatedMigration
-How to Change an Azure Function Written in .NET from In-Process to Isolated Process
+This repository shows how to migrate an Azure Function written in .NET from In-Process to Isolated Process.
